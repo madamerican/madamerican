@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @madamerican
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Termux
+- 🌱 I’m currently learning ...code
+- 💞️ I’m looking to collaborate on ...termux
+- 📫 How to reach me ...here
+
 
 <!---
 madamerican/madamerican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
